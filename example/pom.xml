@@ -120,7 +120,7 @@
 				<executions>
 					<execution>
 						<goals>
-							<goal>war</goal>
+							<goal>jar</goal>
 						</goals>
 					</execution>
 				</executions>
@@ -131,7 +131,7 @@
 				<executions>
 					<execution>
 						<goals>
-							<goal>war</goal>
+							<goal>jar</goal>
 						</goals>
 					</execution>
 				</executions>
